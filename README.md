@@ -10,9 +10,9 @@ Time spent: **20** hours spent in total
   <img src='gifs/settingupmhadmin.gif' title='setup mhn-admin' width='' alt='' />
   >setting up and following the instructions of deploying mhn-admin on compute gc
   <img src='gifs/downloadfromgit.gif.gif' title='Download from git' width='' alt='' />
-  >Downloading the wrong thing initially because of wrong github supplied during instructions
+  > Downloading the wrong thing initially because of wrong github supplied during instructions
   <img src='gifs/mhnssh.gif.gif' title='Download from git' width='' alt='' />
-  >More sshing in to mhn
+  > More sshing in to mhn
 
 ### Errors during setup process
 - GIF walkthrough:
@@ -21,6 +21,7 @@ Time spent: **20** hours spent in total
 ### Fixing it afterwards by getting it from threatstream
 - GIF walkthrough:
 <img src='gifs/fix1gif.gif' title='Fix setup' width='' alt='' />
+
 ### long setup installation
 <img src='gifs/longinstallationprocess.gif' title='Fix setup' width='' alt='' />
 
