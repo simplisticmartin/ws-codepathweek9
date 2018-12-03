@@ -26,9 +26,6 @@ Time spent: **20** hours spent in total
 <img src='gifs/longinstallationprocess.gif' title='Fix setup' width='' alt='' />
 
 ## Which HoneyPot(s) you deployed
-  - mhn-honeypot-1
-  - mhn-honeypot-2
-  - mhn-honeypot-3
   > 1 2 3
 ## Any issues you encountered
   > I had issues with setup due to instructions not being clear. See in gifs due process.
