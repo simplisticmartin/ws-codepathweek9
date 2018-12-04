@@ -27,6 +27,11 @@ Time spent: **20** hours spent in total
 
 ## Which HoneyPot(s) you deployed
   > 1 2 3
+
+  - GIF walkthrough:
+      <img src='gifs/mh-honeypot-1.gif' title='first mh deploy attack' width='' alt='' />
+      <img src='gifs/mh-honeypot-2.gif' title='second mh deploy attack' width='' alt='' />
+      <img src='gifs/mh-honeypot-3.gif' title='second mh deploy attack' width='' alt='' />
 ## Any issues you encountered
   > I had issues with setup due to instructions not being clear. See in gifs due process.
 
@@ -34,11 +39,12 @@ Time spent: **20** hours spent in total
 
 1. GIF walkthroughs of demonstration on the attacks
     - Attack Stats:
-      <img src='attacks stats.gif' title='Attacks Stats' width='' alt='' />
+      <img src='gifs/resultsofattacks.gif' title='Attacks Stats' width='' alt='' />
     - Attacks Report:
-      <img src='attacks report.gif' title='Attacks Report' width='' alt='' />
+      <img src='gifs/attackreport1.gif' title='Attacks Report' width='' alt='' />
+      <img src='attackreport2.gif' title='Attacks Report map' width='' alt='' />
 2. Sensors deployed:
-    <img src='sensors.gif' title='Sensors' width='' alt='' />
+    <img src='gifs/sensors.gif' title='Sensors' width='' alt='' />
 
 ## Any unresolved questions raised by the data collected
   > N/A
