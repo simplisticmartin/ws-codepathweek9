@@ -49,7 +49,7 @@ Time spent: **20** hours spent in total
 GIF JSON Export
     - Attack Stats:
       <img src='gifs/jsonfile.gif' title='json file' width='' alt='' />
-      [screenToGifs]('/session.json')
+      [jsonExport](session.json)
 
 ## Any unresolved questions raised by the data collected
   > N/A
