@@ -45,6 +45,11 @@ Time spent: **20** hours spent in total
       <img src='attackreport2.gif' title='Attacks Report map' width='' alt='' />
 2. Sensors deployed:
     <img src='gifs/sensors.gif' title='Sensors' width='' alt='' />
+## My JSON file
+GIF JSON Export
+    - Attack Stats:
+      <img src='gifs/jsonfile.gif' title='json file' width='' alt='' />
+      [screenToGifs]('/session.json')
 
 ## Any unresolved questions raised by the data collected
   > N/A
